@@ -1,5 +1,9 @@
 # StratCanvas – Valorant Tactics Board 🗺️🎯
 
+<p align="center">
+  <img src="https://i.ibb.co/fdSCn4Dh/image.png" alt="TelePulse Engine — Telegram control preview" width="80%">
+</p>
+
 **StratCanvas** is a desktop application for detailed strategy and line‑up drawing in **Valorant**.  
 The app is delivered as a **`.zip` archive**, **containing a single executable `.exe` file inside**.
 
